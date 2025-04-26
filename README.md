@@ -30,3 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=467)
 </div>
+
+![](https://leetcard.jacoblin.cool/vladislav1524?ext=heatmap)
+
+[![Vlads's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vladislav1524)](https://github.com/KnlnKS/leetcode-stats)

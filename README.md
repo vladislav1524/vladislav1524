@@ -22,7 +22,7 @@
 ### How to reach me
 [![Telegram](https://shields.fly.dev/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/yasno1508)
 [![Vkontakte](https://shields.fly.dev/badge/Vkontakte-white?style=for-the-badge&logo=vk&logoColor=blue)](https://m.vk.com/id751391941)
-
+[![Email](https://shields.fly.dev/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:zerquer42@gmail.com)
 
 <div align="center">
 

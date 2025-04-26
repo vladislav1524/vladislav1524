@@ -16,3 +16,7 @@
 ### How to reach me
 [![Telegram](https://shields.fly.dev/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/yasno1508)
 [![Vkontakte](https://shields.fly.dev/badge/Vkontakte-white?style=for-the-badge&logo=vk&logoColor=blue)](https://m.vk.com/id751391941)
+
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislav1524&show_icons=True&theme=dark)](https://github.com/vladislav1524/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark)

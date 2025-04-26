@@ -23,4 +23,4 @@
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislav1524&show_icons=True&theme=dark)](https://github.com/vladislav1524/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=468)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=467)

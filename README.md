@@ -25,12 +25,12 @@
 
 
 <div align="center">
-
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislav1524&show_icons=True&theme=dark)](https://github.com/vladislav1524/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=467)
+  <a href="https://github.com/vladislav1524/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=vladislav1524&show_icons=True&theme=dark" alt="Vlad's GitHub stats" style="display: inline-block; margin-right: 10px;" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=467" alt="Top Langs" style="display: inline-block;" />
 </div>
 
-![](https://leetcard.jacoblin.cool/vladislav1524?ext=heatmap)
-
-[![Vlads's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vladislav1524)](https://github.com/KnlnKS/leetcode-stats)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/vladislav1524?ext=heatmap" alt="LeetCode Stats" />
+</div>

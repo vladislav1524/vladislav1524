@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Header](https://github.com/vladislav1524/vladislav1524/blob/main/assets/gifka2.gif)
+
+</div>
 
 ## 👋 Hi, I’m @vladislav1524 - I’m interested in web dev (backend)
 
@@ -20,7 +24,9 @@
 [![Vkontakte](https://shields.fly.dev/badge/Vkontakte-white?style=for-the-badge&logo=vk&logoColor=blue)](https://m.vk.com/id751391941)
 
 
+<div align="center">
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislav1524&show_icons=True&theme=dark)](https://github.com/vladislav1524/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=467)
+</div>

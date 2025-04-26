@@ -4,7 +4,6 @@
 
 
 ### Languages and Tools
-<div align="center">
 
 ![python](https://shields.fly.dev/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://shields.fly.dev/badge/SQL-white?style=for-the-badge&logo=mysql&logoColor=orange)
@@ -14,15 +13,14 @@
 ![Redis](https://shields.fly.dev/badge/Redis-white?style=for-the-badge&logo=Redis&logoColor=red)
 ![Celery](https://shields.fly.dev/badge/Celery-white?style=for-the-badge&logo=Celery&logoColor=green)
 ![Swagger](https://shields.fly.dev/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=green)
-</div>
+
 
 ### How to reach me
 [![Telegram](https://shields.fly.dev/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/yasno1508)
 [![Vkontakte](https://shields.fly.dev/badge/Vkontakte-white?style=for-the-badge&logo=vk&logoColor=blue)](https://m.vk.com/id751391941)
 
-<div align="center">
+
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladislav1524&show_icons=True&theme=dark)](https://github.com/vladislav1524/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav1524&layout=compact&theme=dark&card_width=468)

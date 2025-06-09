@@ -16,7 +16,7 @@
 ![Docker](https://shields.fly.dev/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue)
 ![Redis](https://shields.fly.dev/badge/Redis-white?style=for-the-badge&logo=Redis&logoColor=red)
 ![Celery](https://shields.fly.dev/badge/Celery-white?style=for-the-badge&logo=Celery&logoColor=green)
-![Swagger](https://shields.fly.dev/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=green)
+
 
 
 ### How to reach me
